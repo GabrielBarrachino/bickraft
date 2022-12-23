@@ -1,0 +1,42 @@
+@import "./global/header.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+@import "./global/global.css";
+@import "./global/footer.css";
+
+/*Utilidades*/
+@import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
+
+/*Home*/
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
+/*Bicicletas*/
+@import "./bicicletas/bicicletas-listas.css";
+@import "./bicicletas/bicicletas.css";
+
+/*Bicicleta*/
+@import "./bicicletas/bicicletas-listas.css";
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
+/*Seguros*/
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
+
+/*Termos*/
+@import "./termos/termos.css";
+
+/*Contato*/
+@import "../contato/contato.css";
+@import "../contato/lojas.css";
+
+/*Orçamento*/
+@import "./orcamento/orcamento.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&display=swap');
